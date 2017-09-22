@@ -22,6 +22,10 @@ label {
     font-weight: bold;
 }
 
+textarea {
+    resize: none;
+}
+
 input[type="text"],
 input[type="date"],
 input[type="datetime"],
